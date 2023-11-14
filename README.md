@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Lei</h1>
-<h3 align="center" style="color: #98FB98,">a college student</h3>
+<h3 align="center">student</h3> 
 
 - 🔭 I’m currently working on **roadescape**
 
