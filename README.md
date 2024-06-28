@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Lei</h1>
-<h3 align="center">BSIT student</h3> 
+<h3 align="center">Bachelor of Science in Information Technology</h3> 
 
 - 🔭 I’m currently working on **roadescape**
 
