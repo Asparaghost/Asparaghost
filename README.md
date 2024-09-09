@@ -2,11 +2,11 @@
 <h1 align="center">Hey, I'm Lei</h1>
 <h3 align="center">Bachelor of Science in Information Technology</h3> 
 
-- 🔭 I’m currently working on **roadescape**
+- 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available here
 
 - ⚡ Fun fact **I was born when I was a baby**
 
